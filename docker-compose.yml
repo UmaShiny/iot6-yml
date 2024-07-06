@@ -12,3 +12,15 @@ services:
     environment:
       - TZ=Asia/Tokyo
     build: ./frontend_NodeRED
+
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./frontend:/usr/share/nginx/html
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - backend
+      - nodered
