@@ -1,6 +1,6 @@
 [
     {
-        "id": "6f824968e1c74319",
+        "id": "f265343e24ade8d5",
         "type": "tab",
         "label": "dashboard",
         "disabled": false,
@@ -149,7 +149,7 @@
         "type": "ui_tab",
         "name": "user resister",
         "icon": "dashboard",
-        "order": 3,
+        "order": 4,
         "disabled": false,
         "hidden": true
     },
@@ -169,7 +169,7 @@
         "type": "ui_tab",
         "name": "certification",
         "icon": "dashboard",
-        "order": 4,
+        "order": 3,
         "disabled": false,
         "hidden": true
     },
@@ -199,19 +199,9 @@
         "type": "ui_tab",
         "name": "Settings",
         "icon": "timeline",
-        "order": 7,
+        "order": 6,
         "disabled": true,
         "hidden": true
-    },
-    {
-        "id": "9379c82af452cfe8",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "e73f19ab860fb9af",
-        "order": 2,
-        "width": "",
-        "height": ""
     },
     {
         "id": "a9d9a58918ae9263",
@@ -311,83 +301,13 @@
         "className": ""
     },
     {
-        "id": "ab5ced9c7c8130b5",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "fcd2a9620a5003c7",
-        "order": 1,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "446b0c0060918f77",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "fcd2a9620a5003c7",
-        "order": 3,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "78d0ce9b1a2b8ff4",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "fcd2a9620a5003c7",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "fc6d2578eb7791f4",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "0f4037e93a3d0626",
-        "order": 1,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "a1f8585dca0b8c21",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "0f4037e93a3d0626",
-        "order": 3,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "67279710b1912809",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "805e488a9f943934",
-        "order": 1,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "a5f48dc9146ffcde",
-        "type": "ui_spacer",
-        "z": "6f824968e1c74319",
-        "name": "spacer",
-        "group": "805e488a9f943934",
-        "order": 3,
-        "width": 2,
-        "height": 1
-    },
-    {
         "id": "d11a13cd03ec2ec1",
         "type": "ui_tab",
         "name": "user_info",
         "icon": "dashboard",
         "order": 7,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "86e4957093b0dc64",
@@ -407,7 +327,7 @@
         "icon": "dashboard",
         "order": 8,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "5be484a48a197cce",
@@ -421,9 +341,89 @@
         "className": ""
     },
     {
-        "id": "615de631ea381845",
+        "id": "11d09addf47faad3",
         "type": "ui_spacer",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "e73f19ab860fb9af",
+        "order": 2,
+        "width": "",
+        "height": ""
+    },
+    {
+        "id": "051949e78516df9c",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "fcd2a9620a5003c7",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "1520f4c4fbe684b7",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "fcd2a9620a5003c7",
+        "order": 3,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "c0cd6360ab543a00",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "fcd2a9620a5003c7",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f6b8bc8dd1b8bf41",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "0f4037e93a3d0626",
+        "order": 1,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "dd8ade5bba887bd9",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "0f4037e93a3d0626",
+        "order": 3,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "289373d0c0ae1683",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "805e488a9f943934",
+        "order": 1,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "414574e3de402634",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
+        "name": "spacer",
+        "group": "805e488a9f943934",
+        "order": 3,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "3aa3b373fc2f7343",
+        "type": "ui_spacer",
+        "z": "f265343e24ade8d5",
         "name": "spacer",
         "group": "86e4957093b0dc64",
         "order": 1,
@@ -431,9 +431,9 @@
         "height": 1
     },
     {
-        "id": "9b2b92cd44c2d8aa",
+        "id": "ac8fc572be22bfbd",
         "type": "ui_spacer",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "spacer",
         "group": "86e4957093b0dc64",
         "order": 3,
@@ -441,9 +441,9 @@
         "height": 1
     },
     {
-        "id": "3ee180b51421182c",
+        "id": "6665f20672563d83",
         "type": "ui_spacer",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "spacer",
         "group": "5be484a48a197cce",
         "order": 1,
@@ -451,9 +451,9 @@
         "height": 1
     },
     {
-        "id": "8555d96b7cc327da",
+        "id": "5cd9e373117a3933",
         "type": "ui_spacer",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "spacer",
         "group": "5be484a48a197cce",
         "order": 3,
@@ -461,9 +461,9 @@
         "height": 1
     },
     {
-        "id": "c288329d492d7487",
+        "id": "d1f117ef0d8b8a5f",
         "type": "ui_form",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインイン情報の入力",
         "label": "",
         "group": "00f6212109cb96d7",
@@ -509,16 +509,17 @@
         "y": 1220,
         "wires": [
             [
-                "95d8399bbd0e7205"
+                "14b312294c333306",
+                "16f6a9fd87044cea"
             ]
         ]
     },
     {
-        "id": "95d8399bbd0e7205",
+        "id": "14b312294c333306",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
-        "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/signIn\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.user = msg.payload['username']\nmsg.payload = {\n    'username': msg.payload['username'],\n    'password': msg.payload['password']\n};\nreturn msg;",
+        "func": "let hostIP = msg.payload['hostIP']\nflow.set(\"hostIP\", hostIP)\nhostIP = flow.get(\"hostIP\")\nlet url = \"http://\" + hostIP + \":5000\"\nflow.set(\"url\",url)\n\nlet http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/signIn\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.user = msg.payload['username']\nmsg.payload = {\n    'username': msg.payload['username'],\n    'password': msg.payload['password']\n};\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -529,15 +530,15 @@
         "y": 1220,
         "wires": [
             [
-                "a0b955343a591cee",
-                "fe71f3e8cdcbd71b"
+                "5baf03ef6a7f0149",
+                "4921211d6833131d"
             ]
         ]
     },
     {
-        "id": "a0b955343a591cee",
+        "id": "5baf03ef6a7f0149",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -554,15 +555,15 @@
         "y": 1220,
         "wires": [
             [
-                "040bbff40181e7aa",
-                "8772f0679f63c2fe"
+                "c7d2ae75e177df6b",
+                "5b5d2bcf3606fb3b"
             ]
         ]
     },
     {
-        "id": "040bbff40181e7aa",
+        "id": "c7d2ae75e177df6b",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインインの可否を表示",
         "active": true,
         "tosidebar": true,
@@ -577,9 +578,9 @@
         "wires": []
     },
     {
-        "id": "7a54873ec9a5fe33",
+        "id": "3eb9e3d85b3d56a5",
         "type": "ui_form",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインアップ情報の入力",
         "label": "",
         "group": "90f876c4dd9bf71f",
@@ -617,16 +618,16 @@
         "y": 340,
         "wires": [
             [
-                "be3a38dd88a01350"
+                "7f5d296b2fe9959b"
             ]
         ]
     },
     {
-        "id": "be3a38dd88a01350",
+        "id": "7f5d296b2fe9959b",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
-        "func": "flow.set(\"hostIP\", msg.hostIP)\nlet hostIP = flow.get(\"hostIP\")\nlet url = \"http://\" + hostIP + \":5000\"\nflow.set(\"url\",url)\n\nlet http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/checkMailFromNodeRED\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = msg.payload['email']\nmsg.user = msg.payload.split('@')[0]\nmsg.domain = msg.payload.split('@')[1]\nmsg.payload = {\n    'user': msg.user,\n    'domain': msg.domain\n}\nreturn msg;",
+        "func": "flow.set(\"hostIP\", msg.payload['hostIP'])\nlet hostIP = flow.get(\"hostIP\")\nlet url = \"http://\" + hostIP + \":5000\"\nflow.set(\"url\",url)\n\nlet http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/checkMailFromNodeRED\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = msg.payload['email']\nmsg.user = msg.payload.split('@')[0]\nmsg.domain = msg.payload.split('@')[1]\nmsg.payload = {\n    'user': msg.user,\n    'domain': msg.domain\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -637,15 +638,15 @@
         "y": 340,
         "wires": [
             [
-                "36349b15560fab41",
-                "76466f591f703991"
+                "25b9fb0d41261602",
+                "fa49b948a9e4af2b"
             ]
         ]
     },
     {
-        "id": "36349b15560fab41",
+        "id": "25b9fb0d41261602",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -662,15 +663,15 @@
         "y": 380,
         "wires": [
             [
-                "a26bc20baf91cd32",
-                "a31e86143cf4aa4c"
+                "e0f5ba62fa6d18aa",
+                "b69beda5a7b923ea"
             ]
         ]
     },
     {
-        "id": "a26bc20baf91cd32",
+        "id": "e0f5ba62fa6d18aa",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "メールアドレス登録とワンタイムキー取得の可否",
         "active": true,
         "tosidebar": true,
@@ -685,9 +686,9 @@
         "wires": []
     },
     {
-        "id": "76466f591f703991",
+        "id": "fa49b948a9e4af2b",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "メールアドレスのユーザ部とドメイン部の分解の可否",
         "active": true,
         "tosidebar": true,
@@ -702,9 +703,9 @@
         "wires": []
     },
     {
-        "id": "a31e86143cf4aa4c",
+        "id": "b69beda5a7b923ea",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "email認証番号の送信",
         "func": "if (msg.payload['state'] == \"already\"){\n    msg.to = msg.payload['mail']\n    msg.from = \"togenuts@gmail.com\"\n    msg.topic = \"Test\"\n    msg.onetimekey = 0\n    msg.key_list = [\n        String(Math.floor(Math.random() * 10)),\n        String(Math.floor(Math.random() * 10)),\n        String(Math.floor(Math.random() * 10)),\n        String(Math.floor(Math.random() * 10)),\n        String(Math.floor(Math.random() * 10)),\n        String(Math.floor(Math.random() * 10))\n    ]\n    msg.one_time_key = \"\"\n    msg.key_list.forEach(function(key){\n        msg.one_time_key += key\n        key = null\n    })\n    msg.payload = \"this is your certificate key\\nType this number \\nnumber : \" + msg.one_time_key + \" \\nhttp://localhost/ui/#!/2?socketid=1eaPOoiUuY3u1rxtAAAD \\nthis is page to certificate your number !\"\n    return msg;\n}\nelse { \n    msg.payload = { 'message': \"Not already\" }\n    return msg;\n}\n",
         "outputs": 1,
@@ -717,17 +718,17 @@
         "y": 420,
         "wires": [
             [
-                "b74a064bc8ad9c6c",
-                "17191e404c929325",
-                "8b8f1547537e275d",
-                "ee965b9cecbe880a"
+                "97bd0bb794f4091e",
+                "e3630cad3cbef409",
+                "dd72952a60b59614",
+                "6afe63be3cd34527"
             ]
         ]
     },
     {
-        "id": "b74a064bc8ad9c6c",
+        "id": "97bd0bb794f4091e",
         "type": "e-mail",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "server": "smtp.gmail.com",
         "port": "465",
         "secure": true,
@@ -740,14 +741,14 @@
         "y": 460,
         "wires": [
             [
-                "a53b5017c18b2633"
+                "aebf5925e4cd898e"
             ]
         ]
     },
     {
-        "id": "84783407ef735dff",
+        "id": "7a569c632964bc1e",
         "type": "ui_form",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ユーザー情報の入力・送信",
         "label": "",
         "group": "e73f19ab860fb9af",
@@ -793,15 +794,15 @@
         "y": 940,
         "wires": [
             [
-                "a91aef87615b144a",
-                "e4996ab39a117db6"
+                "79dd33d1fcc17749",
+                "8c0ecfbd05ede5f8"
             ]
         ]
     },
     {
-        "id": "1586c6091fa18b27",
+        "id": "8f70bd1999fab5f0",
         "type": "ui_form",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキーの確認",
         "label": "",
         "group": "fc0d382079b6fab5",
@@ -831,14 +832,14 @@
         "y": 660,
         "wires": [
             [
-                "3b73dcabd9701428"
+                "b07e2b599f5a6de5"
             ]
         ]
     },
     {
-        "id": "630baaccd694e296",
+        "id": "443df22d52ed5d55",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -855,14 +856,14 @@
         "y": 540,
         "wires": [
             [
-                "b547f156ee0f3e5e"
+                "fbc896ba6b1c9fa0"
             ]
         ]
     },
     {
-        "id": "17191e404c929325",
+        "id": "e3630cad3cbef409",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキーのJSONオブジェクトを生成",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/resister_otk\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'user': msg.user,\n    'domain': msg.domain,\n    'one_time_key': msg.one_time_key\n}\nreturn msg;",
         "outputs": 1,
@@ -875,15 +876,15 @@
         "y": 500,
         "wires": [
             [
-                "630baaccd694e296",
-                "94f56cc7b5ce6129"
+                "443df22d52ed5d55",
+                "507ea188a8efc66a"
             ]
         ]
     },
     {
-        "id": "b547f156ee0f3e5e",
+        "id": "fbc896ba6b1c9fa0",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "データベース登録の可否",
         "active": true,
         "tosidebar": true,
@@ -898,9 +899,9 @@
         "wires": []
     },
     {
-        "id": "8b8f1547537e275d",
+        "id": "dd72952a60b59614",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "メールアドレスの再構築の可否",
         "active": true,
         "tosidebar": true,
@@ -915,9 +916,9 @@
         "wires": []
     },
     {
-        "id": "94f56cc7b5ce6129",
+        "id": "507ea188a8efc66a",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキーの生成の可否",
         "active": true,
         "tosidebar": true,
@@ -932,9 +933,9 @@
         "wires": []
     },
     {
-        "id": "efb0443c06ab1922",
+        "id": "6b62d8e778e17580",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -951,16 +952,16 @@
         "y": 660,
         "wires": [
             [
-                "f1bc7c2eeea1729e"
+                "52ab47925f241f64"
             ]
         ]
     },
     {
-        "id": "3b73dcabd9701428",
+        "id": "b07e2b599f5a6de5",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
-        "func": "flow.set(\"hostIP\", msg.hostIP)\nlet hostIP = flow.get(\"hostIP\")\nlet url = \"http://\" + hostIP + \":5000\"\nflow.set(\"url\",url)\n\nlet http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/compare_one_time_key\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.certification = msg.payload['certnum']\nmsg.payload = {\n    'one_time_key': msg.certification\n}\nreturn msg;",
+        "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/compare_one_time_key\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.certification = msg.payload['certnum']\nmsg.payload = {\n    'one_time_key': msg.certification\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -971,14 +972,14 @@
         "y": 660,
         "wires": [
             [
-                "efb0443c06ab1922"
+                "6b62d8e778e17580"
             ]
         ]
     },
     {
-        "id": "a8578588a0a4f6e8",
+        "id": "26bd40d5c972e5fe",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキーのチェック",
         "active": true,
         "tosidebar": true,
@@ -993,9 +994,9 @@
         "wires": []
     },
     {
-        "id": "ee965b9cecbe880a",
+        "id": "6afe63be3cd34527",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "メール送信通知のトースト前処理",
         "func": "msg.payload = \"Check it out\"\nmsg.topic = \"notify\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
         "outputs": 1,
@@ -1008,14 +1009,14 @@
         "y": 580,
         "wires": [
             [
-                "41e10390025c02bd"
+                "448ea2ced30e0620"
             ]
         ]
     },
     {
-        "id": "41e10390025c02bd",
+        "id": "448ea2ced30e0620",
         "type": "ui_toast",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "position": "top right",
         "displayTime": "",
         "highlight": "",
@@ -1032,9 +1033,9 @@
         "wires": []
     },
     {
-        "id": "a53b5017c18b2633",
+        "id": "aebf5925e4cd898e",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "メール送信の可否",
         "active": true,
         "tosidebar": true,
@@ -1049,9 +1050,9 @@
         "wires": []
     },
     {
-        "id": "f6a318e52af68c5c",
+        "id": "622cc45fe0b81d4a",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "This is Login window CSS",
         "info": "",
         "x": 190,
@@ -1059,9 +1060,9 @@
         "wires": []
     },
     {
-        "id": "15f83a1fda9c9788",
+        "id": "a1867dcce1f03bde",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "change",
         "x": 1500,
@@ -1071,9 +1072,9 @@
         ]
     },
     {
-        "id": "39a559a123cd8e30",
+        "id": "40d1ce9f8ddf8cef",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -1085,14 +1086,14 @@
         "y": 820,
         "wires": [
             [
-                "15f83a1fda9c9788"
+                "a1867dcce1f03bde"
             ]
         ]
     },
     {
-        "id": "a57cf30b08b09572",
+        "id": "571f127a435881af",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "データ作成のリンク送信",
         "func": "if (msg.payload['state'] == \"success\"){\n    return msg;\n}\nelse { \n    msg.payload = { 'message': \"Not already\" }\n    return msg;\n}\n",
         "outputs": 1,
@@ -1105,14 +1106,14 @@
         "y": 820,
         "wires": [
             [
-                "39a559a123cd8e30"
+                "40d1ce9f8ddf8cef"
             ]
         ]
     },
     {
-        "id": "f1bc7c2eeea1729e",
+        "id": "52ab47925f241f64",
         "type": "switch",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "データべースの情報との比較による分岐",
         "property": "payload['state']",
         "propertyType": "msg",
@@ -1135,20 +1136,20 @@
         "y": 660,
         "wires": [
             [
-                "a8578588a0a4f6e8",
-                "a57cf30b08b09572",
-                "ad3b8b054a2a3f55",
-                "7e7ba2d6e99939d4"
+                "26bd40d5c972e5fe",
+                "571f127a435881af",
+                "b42b2ffc06b2a2d8",
+                "1c6ff63cf4d07851"
             ],
             [
-                "97b211bc0569c0c4"
+                "817da9abb98676c6"
             ]
         ]
     },
     {
-        "id": "97b211bc0569c0c4",
+        "id": "817da9abb98676c6",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキー再入力催促のトースト前処理",
         "func": "msg.payload = \"It may wrong...\"\nmsg.topic = \"Oops! That OneTimeKey doesn’t look right. Try again?\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
         "outputs": 1,
@@ -1161,14 +1162,14 @@
         "y": 860,
         "wires": [
             [
-                "e4daefa04e7fb3bf"
+                "ad0502b1380a944a"
             ]
         ]
     },
     {
-        "id": "e4daefa04e7fb3bf",
+        "id": "ad0502b1380a944a",
         "type": "ui_toast",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "position": "top right",
         "displayTime": "",
         "highlight": "",
@@ -1185,9 +1186,9 @@
         "wires": []
     },
     {
-        "id": "aa12c51b8b6f1572",
+        "id": "9aebd611ca9d9847",
         "type": "ui_toast",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "position": "top right",
         "displayTime": "",
         "highlight": "",
@@ -1204,9 +1205,9 @@
         "wires": []
     },
     {
-        "id": "ad3b8b054a2a3f55",
+        "id": "b42b2ffc06b2a2d8",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキー再入力催促のトースト前処理",
         "func": "msg.payload = \"Great!!\"\nmsg.topic = \"Next sign here!\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
         "outputs": 1,
@@ -1219,14 +1220,14 @@
         "y": 780,
         "wires": [
             [
-                "aa12c51b8b6f1572"
+                "9aebd611ca9d9847"
             ]
         ]
     },
     {
-        "id": "7dc602927763baa1",
+        "id": "39aba1234982a53b",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -1243,18 +1244,18 @@
         "y": 980,
         "wires": [
             [
-                "fad97aab25d39d46",
-                "5dc562379cfcce04",
-                "ab3547e63f945432"
+                "46eb8ebcb292b302",
+                "ca22c14123f8fc1c",
+                "979857c9930f634f"
             ]
         ]
     },
     {
-        "id": "e44de8b239fd86f7",
+        "id": "9920a525c1738b9e",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
-        "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/resister_Userinfo\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\n\n\n\nmsg.payload = {\n    'username': msg.payload['username'],\n    'password': msg.payload['password'],\n    'email-user': flow.get(\"email-user\"),\n    'email-domain': flow.get(\"email-domain\")\n}\nreturn msg;",
+        "func": "let http = flow.get(\"url\")\nmsg.username = msg.payload['username']\n\nmsg.method = \"GET\";\nmsg.url = http + \"/resister_Userinfo\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\n\n\n\nmsg.payload = {\n    'username': msg.payload['username'],\n    'password': msg.payload['password'],\n    'email-user': flow.get(\"email-user\"),\n    'email-domain': flow.get(\"email-domain\")\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -1265,15 +1266,15 @@
         "y": 960,
         "wires": [
             [
-                "7dc602927763baa1",
-                "253a1e47d29003e3"
+                "39aba1234982a53b",
+                "8f1197d4c2791044"
             ]
         ]
     },
     {
-        "id": "a91aef87615b144a",
+        "id": "79dd33d1fcc17749",
         "type": "switch",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "パスワードの正誤",
         "property": "payload['password']",
         "propertyType": "msg",
@@ -1296,17 +1297,17 @@
         "y": 980,
         "wires": [
             [
-                "e44de8b239fd86f7"
+                "9920a525c1738b9e"
             ],
             [
-                "f5f321bea41d9320"
+                "39ab4bba03db8b82"
             ]
         ]
     },
     {
-        "id": "f5f321bea41d9320",
+        "id": "39ab4bba03db8b82",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ワンタイムキー再入力催促のトースト前処理",
         "func": "msg.payload = \"It may wrong...\"\nmsg.topic = \"Oops! That password doesn’t look right. Try again?\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
         "outputs": 1,
@@ -1319,14 +1320,14 @@
         "y": 1020,
         "wires": [
             [
-                "02bba4cd39d4dbc9"
+                "48eb171ec6c4ae09"
             ]
         ]
     },
     {
-        "id": "02bba4cd39d4dbc9",
+        "id": "48eb171ec6c4ae09",
         "type": "ui_toast",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "position": "top right",
         "displayTime": "",
         "highlight": "",
@@ -1343,9 +1344,9 @@
         "wires": []
     },
     {
-        "id": "253a1e47d29003e3",
+        "id": "8f1197d4c2791044",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 2",
         "active": true,
         "tosidebar": true,
@@ -1359,9 +1360,9 @@
         "wires": []
     },
     {
-        "id": "e4996ab39a117db6",
+        "id": "8c0ecfbd05ede5f8",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 3",
         "active": true,
         "tosidebar": true,
@@ -1376,9 +1377,9 @@
         "wires": []
     },
     {
-        "id": "7e7ba2d6e99939d4",
+        "id": "1c6ff63cf4d07851",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 4",
         "func": "msg.payload = msg.payload['email']\nvar str = msg.payload\nvar arr = str.split(\"@\");\n\nmsg.payload = arr\nreturn msg;",
         "outputs": 1,
@@ -1391,15 +1392,15 @@
         "y": 660,
         "wires": [
             [
-                "cdadb804f3f2fd8b",
-                "5f5f3e1ac8e2e61f"
+                "b0609adeb887c756",
+                "3e57a559f7ec237f"
             ]
         ]
     },
     {
-        "id": "5f5f3e1ac8e2e61f",
+        "id": "3e57a559f7ec237f",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 5",
         "func": "flow.set('email-user', msg.payload[0])\nflow.set('email-domain', msg.payload[1])\n\nreturn msg;",
         "outputs": 1,
@@ -1412,14 +1413,14 @@
         "y": 660,
         "wires": [
             [
-                "45b45695b40dad95"
+                "89f12370693e2ab5"
             ]
         ]
     },
     {
-        "id": "cdadb804f3f2fd8b",
+        "id": "b0609adeb887c756",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 6",
         "active": true,
         "tosidebar": true,
@@ -1434,9 +1435,9 @@
         "wires": []
     },
     {
-        "id": "45b45695b40dad95",
+        "id": "89f12370693e2ab5",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "active": true,
         "tosidebar": true,
@@ -1451,9 +1452,9 @@
         "wires": []
     },
     {
-        "id": "fad97aab25d39d46",
+        "id": "46eb8ebcb292b302",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 8",
         "active": true,
         "tosidebar": true,
@@ -1467,9 +1468,9 @@
         "wires": []
     },
     {
-        "id": "5dc562379cfcce04",
+        "id": "ca22c14123f8fc1c",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 6",
         "func": "flow.set(\"email-user\",undefined)\nflow.set(\"email-domain\", undefined)\nreturn msg;",
         "outputs": 1,
@@ -1485,9 +1486,9 @@
         ]
     },
     {
-        "id": "18506a6089cf1a50",
+        "id": "2a88cb151aabb495",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインアップ（メールアドレス認証）",
         "info": "",
         "x": 230,
@@ -1495,9 +1496,9 @@
         "wires": []
     },
     {
-        "id": "d2ea8b832abb6699",
+        "id": "d4b0f4a0d69cd66a",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインアップ（ワンタイムキー認証）",
         "info": "",
         "x": 230,
@@ -1505,9 +1506,9 @@
         "wires": []
     },
     {
-        "id": "309b576fd162f3bc",
+        "id": "5bfe77f971f61782",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインアップ（登録情報の入力）",
         "info": "",
         "x": 210,
@@ -1515,9 +1516,9 @@
         "wires": []
     },
     {
-        "id": "f9bb620e6c873c07",
+        "id": "3288976c09ead806",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインイン（入力情報認証）",
         "info": "",
         "x": 200,
@@ -1525,9 +1526,9 @@
         "wires": []
     },
     {
-        "id": "fe71f3e8cdcbd71b",
+        "id": "4921211d6833131d",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 9",
         "active": true,
         "tosidebar": true,
@@ -1541,9 +1542,9 @@
         "wires": []
     },
     {
-        "id": "81362d392647cb02",
+        "id": "85b53e5c74ded185",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "change",
         "x": 1020,
@@ -1553,9 +1554,9 @@
         ]
     },
     {
-        "id": "731ef741b8ff2701",
+        "id": "86d9a2bdf7538065",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -1567,14 +1568,14 @@
         "y": 1300,
         "wires": [
             [
-                "81362d392647cb02"
+                "85b53e5c74ded185"
             ]
         ]
     },
     {
-        "id": "8772f0679f63c2fe",
+        "id": "5b5d2bcf3606fb3b",
         "type": "switch",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "property": "payload['state']",
         "propertyType": "msg",
@@ -1597,18 +1598,18 @@
         "y": 1300,
         "wires": [
             [
-                "731ef741b8ff2701",
-                "0b070929d1e4a841"
+                "86d9a2bdf7538065",
+                "662621c250ab9afa"
             ],
             [
-                "0de1fe0b4842a343"
+                "4bddd41e3286c419"
             ]
         ]
     },
     {
-        "id": "0de1fe0b4842a343",
+        "id": "4bddd41e3286c419",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "サインインを再度求めるトースト",
         "func": "msg.payload = \"It may wrong...\"\nmsg.topic = \"Oops! That password or username doesn’t look right. Try again?\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
         "outputs": 1,
@@ -1621,14 +1622,14 @@
         "y": 1340,
         "wires": [
             [
-                "ebeb4b75e012038e"
+                "00ef79ad204d9545"
             ]
         ]
     },
     {
-        "id": "ebeb4b75e012038e",
+        "id": "00ef79ad204d9545",
         "type": "ui_toast",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "position": "top right",
         "displayTime": "",
         "highlight": "",
@@ -1645,9 +1646,9 @@
         "wires": []
     },
     {
-        "id": "0e60ee3011123f31",
+        "id": "3f6ff49c2db0c803",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "アプリ画面（demo）",
         "info": "",
         "x": 180,
@@ -1655,15 +1656,15 @@
         "wires": []
     },
     {
-        "id": "2d30262a6b09d3ce",
+        "id": "5aa97bb951dd62bf",
         "type": "ui_template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "81b1bdc3.9a60b8",
         "name": "CSS-Basics",
         "order": 1,
         "width": 0,
         "height": 0,
-        "format": "<style>\n    * {\n        background: none;\n        background-repeat: no-repeat;\n    }\n\n    root, a, button, p, div {\n        -webkit-user-select: none !important;\n    }\n\n    ui-card-panel {\n        background-color: rgba(250, 250, 250, 0.2) !important;\n        border: none !important;\n        border-radius: 10px !important;\n        /*        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19) !important;\n    */\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel>div>md-card {\n        background: none !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel button {\n        background: none !important;\n    }\n\n    p.nr-dashboard-cardtitle {\n        text-align: center !important;\n    }\n\n\n    button, html, input, select, textarea  {\n        font-family: Roboto, Helvetica Neue, sans-serif;\n    }\n\n    md-toolbar {\n        background: none !important;\n    }\n\n    md-sidenav {\n        background: linear-gradient(120deg, rgba(40, 42, 49, 0.90) 20%, rgba(47, 49, 56, 0.90) 80%) !important;\n    }\n\n    md-card.nr-dashboard-button * {\n        background: none !important;\n        box-shadow: none !important;\n    }\n\n    md-card.nr-dashboard-template * {\n        background: none !important;\n    }\n\n\n    body {\n        background: transparent;\n        \n        background: linear-gradient(\n            45deg,\n            #9900d3,\n            #4b0082,\n            #8a2be2,\n            #4169e1,\n            #ffff00\n        );\n        \n        width: 100%;\n        height: 100vh;\n        background-size: 200% 200% !important;/*サイズを大きくひきのばす*/\n        background-position: 0% 50%;\n        animation: bggradient 10s ease infinite;\n        \n        -webkit-touch-callout: none !important;\n        color: #ffffff !important;\n        padding-top:5px !important;\n    }\n        \n    body.nr-dashboard-theme md-toolbar,\n    body.nr-dashboard-theme md-content md-card {}\n    \n    @keyframes bggradient{\n        0% {\n            background-position: 0% 50%;\n        }\n        25%{\n            background-position: 50% 100%;\n        }\n        50% {\n            background-position: 100% 50%;\n        }\n        75%{\n            background-position: 50% 100%;\n        }\n        100% {\n            background-position: 0% 50%;\n        }\n    }\n    \n    .nr-dashboard-cardpanel > p {\n        max-height: 32px;\n        min-height: 32px;\n        margin-left: 6px !important;\n        margin-right: 6px !important;\n        margin-top: 10px;\n        margin-bottom: 12px;\n        font-weight: 500;\n        font-size: larger;\n    }\n\n    button.md-raised.nr-dashboard-form-button.md-button.md-ink-ripple {\n        border-radius: 20px;\n    }\n    \n    .nr-dashboard-template {\n        padding: 0px;\n    }\n\n    .test {\n        text-align: center;\n    }\n\n    div#Application1_status_cards {\n    height: 100px !important;\n    }\n    \n</style>",
+        "format": "<style>\n    * {\n        background: none;\n        background-repeat: no-repeat;\n    }\n\n    root, a, button, p, div {\n        -webkit-user-select: none !important;\n    }\n\n    ui-card-panel {\n        background-color: rgba(250, 250, 250, 0.2) !important;\n        border: none !important;\n        border-radius: 10px !important;\n        /*        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19) !important;\n    */\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel>div>md-card {\n        background: none !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel button {\n        background: none !important;\n    }\n\n    p.nr-dashboard-cardtitle {\n        text-align: center !important;\n    }\n\n\n    button, html, input, select, textarea  {\n        font-family: Roboto, Helvetica Neue, sans-serif;\n    }\n\n    md-toolbar {\n        background: none !important;\n    }\n\n    md-sidenav {\n        background: linear-gradient(120deg, rgba(40, 42, 49, 0.90) 20%, rgba(47, 49, 56, 0.90) 80%) !important;\n    }\n\n    md-card.nr-dashboard-button * {\n        background: none !important;\n        box-shadow: none !important;\n    }\n\n    md-card.nr-dashboard-template * {\n        background: none !important;\n    }\n\n\n    body {\n        background: transparent;\n        \n        background: linear-gradient(\n            45deg,\n            #9900d3,\n            #4b0082,\n            #8a2be2,\n            #4169e1,\n            #ffff00\n        );\n        \n        width: 100%;\n        height: 100vh;\n        background-size: 200% 200% !important;/*サイズを大きくひきのばす*/\n        background-position: 0% 50%;\n        animation: bggradient 10s ease infinite;\n        \n        -webkit-touch-callout: none !important;\n        color: #ffffff !important;\n        padding-top:5px !important;\n    }\n        \n    body.nr-dashboard-theme md-toolbar,\n    body.nr-dashboard-theme md-content md-card {}\n    \n    @keyframes bggradient{\n        0% {\n            background-position: 0% 50%;\n        }\n        25%{\n            background-position: 50% 100%;\n        }\n        50% {\n            background-position: 100% 50%;\n        }\n        75%{\n            background-position: 50% 100%;\n        }\n        100% {\n            background-position: 0% 50%;\n        }\n    }\n    \n    .nr-dashboard-cardpanel > p {\n        max-height: 32px;\n        min-height: 32px;\n        margin-left: 6px !important;\n        margin-right: 6px !important;\n        margin-top: 10px;\n        margin-bottom: 12px;\n        font-weight: 500;\n        font-size: larger;\n    }\n\n    button.md-raised.nr-dashboard-form-button.md-button.md-ink-ripple {\n        border-radius: 20px;\n    }\n    \n    .nr-dashboard-template {\n        padding: 0px;\n    }\n\n    .test {\n        text-align: center;\n    }\n\n    div#Application1_status_cards {\n    height: 100px !important;\n    }\n\n    /*\n    .test {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%; \n    height: 300px;\n    }\n    */\n\n    /*\n    .test img {\n        max-width: 100%;\n        max-height: 100%;\n    }\n    */\n\n    .test {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%;\n    height: 760px;\n    }\n\n    .test img {\n    max-width: 100%;\n    max-height: 100%;\n    }\n</style>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": false,
@@ -1676,28 +1677,28 @@
         ]
     },
     {
-        "id": "2154e513f25e6859",
+        "id": "041145e5e60a8e45",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "template",
         "fieldType": "msg",
         "format": "html",
         "syntax": "mustache",
-        "template": "<style>\n    * {\n        background: none;\n        background-repeat: no-repeat;\n    }\n\n    root,\n    a,\n    button,\n    p,\n    div {\n        -webkit-user-select: none !important;\n    }\n\n    ui-card-panel {\n        background-color: rgba(250, 250, 250, 0.2) !important;\n        border: none !important;\n        border-radius: 10px !important;\n        /*        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19) !important;\n    */\n    }\n    \n    p.nr-dashboard-cardtitle {\n        text-align: center !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel>div>md-card {\n        background: none !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel button {\n        background: none !important;\n    }\n\n    md-toolbar {\n        background: none !important;\n    }\n\n    md-sidenav {\n        background: linear-gradient(120deg, rgba(40, 42, 49, 0.90) 20%, rgba(47, 49, 56, 0.90) 80%) !important;\n    }\n\n    md-card.nr-dashboard-button * {\n        background: none !important;\n        box-shadow: none !important;\n    }\n\n    md-card.nr-dashboard-template * {\n        background: none !important;\n    }\n\n\n    body {\n        background: transparent;\n\n        background: linear-gradient(\n            45deg,\n            {{payload_1}},\n            {{payload_2}},\n            {{payload_3}},\n            {{payload_4}}\n        );\n\n        width: 100%;\n        height: 100vh;\n        background-size: 200% 200% !important;\n        /*サイズを大きくひきのばす*/\n        background-position: 0% 50%;\n        animation: bggradient 30s ease infinite;\n\n        -webkit-touch-callout: none !important;\n        color: #ffffff !important;\n        padding-top: 5px !important;\n    }\n\n    body.nr-dashboard-theme md-toolbar,\n    body.nr-dashboard-theme md-content md-card {}\n\n    @keyframes bggradient {\n        0% {\n            background-position: 0% 50%;\n        }\n\n        25% {\n            background-position: 50% 100%;\n        }\n\n        50% {\n            background-position: 100% 50%;\n        }\n\n        75% {\n            background-position: 50% 100%;\n        }\n\n        100% {\n            background-position: 0% 50%;\n        }\n    }\n    .nr-dashboard-cardpanel > p {\n        max-height: 32px;\n        min-height: 32px;\n        margin-left: 6px !important;\n        margin-right: 6px !important;\n        margin-top: 10px;\n        margin-bottom: 12px;\n        font-weight: 500;\n        font-size: larger;\n    }\n\n    button.md-raised.nr-dashboard-form-button.md-button.md-ink-ripple {\n        border-radius: 20px;\n    }\n\n    .nr-dashboard-template {\n        padding: 0px;\n    }\n\n    .test {\n        text-align: center;\n    }\n\n    div#Application1_status_cards {\n        height: 100px !important;\n    }\n\n</style>",
+        "template": "<style>\n    * {\n        background: none;\n        background-repeat: no-repeat;\n    }\n\n    root,\n    a,\n    button,\n    p,\n    div {\n        -webkit-user-select: none !important;\n    }\n\n    ui-card-panel {\n        background-color: rgba(250, 250, 250, 0.2) !important;\n        border: none !important;\n        border-radius: 10px !important;\n        /*        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19) !important;\n    */\n    }\n    \n    p.nr-dashboard-cardtitle {\n        text-align: center !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel>div>md-card {\n        background: none !important;\n    }\n\n    ui-card-panel>div.nr-dashboard-cardpanel button {\n        background: none !important;\n    }\n\n    md-toolbar {\n        background: none !important;\n    }\n\n    md-sidenav {\n        background: linear-gradient(120deg, rgba(40, 42, 49, 0.90) 20%, rgba(47, 49, 56, 0.90) 80%) !important;\n    }\n\n    md-card.nr-dashboard-button * {\n        background: none !important;\n        box-shadow: none !important;\n    }\n\n    md-card.nr-dashboard-template * {\n        background: none !important;\n    }\n\n\n    body {\n        background: transparent;\n\n        background: linear-gradient(\n            45deg,\n            {{payload_1}},\n            {{payload_2}},\n            {{payload_3}},\n            {{payload_4}}\n        );\n\n        width: 100%;\n        height: 100vh;\n        background-size: 200% 200% !important;\n        /*サイズを大きくひきのばす*/\n        background-position: 0% 50%;\n        animation: bggradient 30s ease infinite;\n\n        -webkit-touch-callout: none !important;\n        color: #ffffff !important;\n        padding-top: 5px !important;\n    }\n\n    body.nr-dashboard-theme md-toolbar,\n    body.nr-dashboard-theme md-content md-card {}\n\n    @keyframes bggradient {\n        0% {\n            background-position: 0% 50%;\n        }\n\n        25% {\n            background-position: 50% 100%;\n        }\n\n        50% {\n            background-position: 100% 50%;\n        }\n\n        75% {\n            background-position: 50% 100%;\n        }\n\n        100% {\n            background-position: 0% 50%;\n        }\n    }\n    .nr-dashboard-cardpanel > p {\n        max-height: 32px;\n        min-height: 32px;\n        margin-left: 6px !important;\n        margin-right: 6px !important;\n        margin-top: 10px;\n        margin-bottom: 12px;\n        font-weight: 500;\n        font-size: larger;\n    }\n\n    button.md-raised.nr-dashboard-form-button.md-button.md-ink-ripple {\n        border-radius: 20px;\n    }\n\n    .nr-dashboard-template {\n        padding: 0px;\n    }\n\n    .test {\n        text-align: center;\n    }\n\n    div#Application1_status_cards {\n        height: 100px !important;\n    }\n    /*\n    .test {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%; \n    height: 300px;\n    }\n    */\n\n    /*\n    .test img {\n        max-width: 100%;\n        max-height: 100%;\n    }\n    */\n\n    .test {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%;\n    height: 760px;\n    }\n\n    .test img {\n    max-width: 100%;\n    max-height: 100%;\n    }\n</style>",
         "output": "str",
         "x": 460,
         "y": 160,
         "wires": [
             [
-                "2d30262a6b09d3ce"
+                "5aa97bb951dd62bf"
             ]
         ]
     },
     {
-        "id": "b3cf63b30f53f366",
+        "id": "927d82c47b8cdb0e",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 7",
         "func": "const pallet = '0123456789ABCDEF'\n\nfunction colorget(){\n    const color_array = [\n    String(Math.floor(Math.random() * 16)),\n    String(Math.floor(Math.random() * 16)),\n    String(Math.floor(Math.random() * 16)),\n    String(Math.floor(Math.random() * 16)),\n    String(Math.floor(Math.random() * 16)),\n    String(Math.floor(Math.random() * 16))\n    ]\n\n    let color = \"#\"\n\n    color_array.forEach(function(item) {\n        color += pallet[item]\n        item = null\n    });\n\n    return color;\n}\n\n\nmsg.payload_1 = colorget()\nmsg.payload_2 = colorget()\nmsg.payload_3 = colorget()\nmsg.payload_4 = colorget()\n\nreturn msg;",
         "outputs": 1,
@@ -1710,14 +1711,14 @@
         "y": 160,
         "wires": [
             [
-                "2154e513f25e6859"
+                "041145e5e60a8e45"
             ]
         ]
     },
     {
-        "id": "7579173786f917fa",
+        "id": "b9102ca00f549482",
         "type": "inject",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "props": [
             {
@@ -1739,15 +1740,15 @@
         "y": 160,
         "wires": [
             [
-                "b3cf63b30f53f366",
-                "424e288ba8c5f605"
+                "927d82c47b8cdb0e",
+                "86a1dc188e354287"
             ]
         ]
     },
     {
-        "id": "2d8f146add1c0ea3",
+        "id": "970af09487d5b660",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "backgroundColorandom",
         "group": "e77efef5c32cb49f",
         "order": 3,
@@ -1768,43 +1769,43 @@
         "y": 1500,
         "wires": [
             [
-                "15dbf96cfeadfad5"
+                "f5aa0a9fb663163f"
             ]
         ]
     },
     {
-        "id": "fa2fac737f9587cc",
+        "id": "b4857d60b0c65a0d",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 1",
         "links": [
-            "15dbf96cfeadfad5"
+            "f5aa0a9fb663163f"
         ],
         "x": 185,
         "y": 220,
         "wires": [
             [
-                "b3cf63b30f53f366"
+                "927d82c47b8cdb0e"
             ]
         ]
     },
     {
-        "id": "15dbf96cfeadfad5",
+        "id": "f5aa0a9fb663163f",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 1",
         "mode": "link",
         "links": [
-            "fa2fac737f9587cc"
+            "b4857d60b0c65a0d"
         ],
         "x": 385,
         "y": 1500,
         "wires": []
     },
     {
-        "id": "4452023b3c88ab43",
+        "id": "52a8c3aeebbd0639",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Airocoデータ取得",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/getAirocoData\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n};\nreturn msg;",
         "outputs": 1,
@@ -1817,14 +1818,14 @@
         "y": 1500,
         "wires": [
             [
-                "43a4da6ff40deb31"
+                "65186a485edbf8cb"
             ]
         ]
     },
     {
-        "id": "9f995efc8d395521",
+        "id": "f462024b04a142d9",
         "type": "inject",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "props": [
             {
@@ -1847,14 +1848,14 @@
         "y": 1500,
         "wires": [
             [
-                "4452023b3c88ab43"
+                "52a8c3aeebbd0639"
             ]
         ]
     },
     {
-        "id": "43a4da6ff40deb31",
+        "id": "65186a485edbf8cb",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -1871,16 +1872,16 @@
         "y": 1500,
         "wires": [
             [
-                "82ad24983697234c",
-                "1e50f5c2de5d9f42",
-                "249ae899658102fe"
+                "6d91d43b05d36cd8",
+                "f1943873748ac336",
+                "2eb5b3ee1f1aa275"
             ]
         ]
     },
     {
-        "id": "82ad24983697234c",
+        "id": "6d91d43b05d36cd8",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの中身を確認",
         "active": false,
         "tosidebar": true,
@@ -1895,9 +1896,9 @@
         "wires": []
     },
     {
-        "id": "e7d288e06009f4b3",
+        "id": "09af6f25e802338a",
         "type": "ui_gauge",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "co2",
         "group": "6229a5b6866e8146",
         "order": 3,
@@ -1923,9 +1924,9 @@
         "wires": []
     },
     {
-        "id": "9425e2c9b1639a45",
+        "id": "0701e01606513093",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "co2に加工",
         "func": "msg.payload = msg.payload['co2']\nreturn msg;",
         "outputs": 1,
@@ -1938,15 +1939,15 @@
         "y": 1580,
         "wires": [
             [
-                "732cc05c92798d7a",
-                "e7d288e06009f4b3"
+                "70345e8fff179cc9",
+                "09af6f25e802338a"
             ]
         ]
     },
     {
-        "id": "93e457f88f0a6abe",
+        "id": "b33439afbe97f0e5",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "humに加工",
         "func": "msg.payload = msg.payload['humidity']\nreturn msg;",
         "outputs": 1,
@@ -1959,15 +1960,15 @@
         "y": 1660,
         "wires": [
             [
-                "57c4c340de85c8fa",
-                "a00eb56b8e55cf13"
+                "6ec4aee84f9afa60",
+                "bafc561ed88546b3"
             ]
         ]
     },
     {
-        "id": "063abbfba78bae22",
+        "id": "be6c360423ff80ba",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "tmpに加工",
         "func": "msg.payload = msg.payload['temperature']\nreturn msg;",
         "outputs": 1,
@@ -1980,15 +1981,15 @@
         "y": 1740,
         "wires": [
             [
-                "24e07a3f9f770c4b",
-                "8895cc6ff53c8417"
+                "82953b9f43f2ebc2",
+                "f6703a318763880f"
             ]
         ]
     },
     {
-        "id": "a00eb56b8e55cf13",
+        "id": "bafc561ed88546b3",
         "type": "ui_gauge",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "humidity",
         "group": "fcd2a9620a5003c7",
         "order": 6,
@@ -2014,9 +2015,9 @@
         "wires": []
     },
     {
-        "id": "8895cc6ff53c8417",
+        "id": "f6703a318763880f",
         "type": "ui_gauge",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "temperature",
         "group": "5b7313b354518b0e",
         "order": 3,
@@ -2042,9 +2043,9 @@
         "wires": []
     },
     {
-        "id": "732cc05c92798d7a",
+        "id": "70345e8fff179cc9",
         "type": "ui_chart",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "co2_chart",
         "group": "6229a5b6866e8146",
         "order": 4,
@@ -2086,9 +2087,9 @@
         ]
     },
     {
-        "id": "24e07a3f9f770c4b",
+        "id": "82953b9f43f2ebc2",
         "type": "ui_chart",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "temperature chart",
         "group": "5b7313b354518b0e",
         "order": 4,
@@ -2130,9 +2131,9 @@
         ]
     },
     {
-        "id": "57c4c340de85c8fa",
+        "id": "6ec4aee84f9afa60",
         "type": "ui_chart",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "humidity chart",
         "group": "fcd2a9620a5003c7",
         "order": 7,
@@ -2174,9 +2175,9 @@
         ]
     },
     {
-        "id": "850e905a1ec06691",
+        "id": "4abfbed07092ca64",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "water_button",
         "group": "0f4037e93a3d0626",
         "order": 5,
@@ -2197,14 +2198,14 @@
         "y": 1640,
         "wires": [
             [
-                "84866c73de702c28"
+                "5b498f58c0785323"
             ]
         ]
     },
     {
-        "id": "86e0f0ab28285d35",
+        "id": "6f523d6a863af913",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "fetilizer_button",
         "group": "805e488a9f943934",
         "order": 5,
@@ -2225,14 +2226,14 @@
         "y": 1720,
         "wires": [
             [
-                "61320ca7c9371274"
+                "74114f8e81357a1a"
             ]
         ]
     },
     {
-        "id": "43cf4ebc2dc2bc5f",
+        "id": "7af207b94d00892f",
         "type": "ui_gauge",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "fertilizer_gauge",
         "group": "805e488a9f943934",
         "order": 4,
@@ -2258,9 +2259,9 @@
         "wires": []
     },
     {
-        "id": "115be89f34140b35",
+        "id": "ee43e1ca726c82dc",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "背景色の変化",
         "info": "",
         "x": 190,
@@ -2268,9 +2269,9 @@
         "wires": []
     },
     {
-        "id": "6dad564095c054cb",
+        "id": "222c373844e0de4c",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "データベースからデータ取得",
         "info": "",
         "x": 540,
@@ -2278,9 +2279,9 @@
         "wires": []
     },
     {
-        "id": "7ce18d74323731b3",
+        "id": "763f49f59112828e",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "水やり機能と肥料機能（未実装）",
         "info": "",
         "x": 250,
@@ -2288,73 +2289,73 @@
         "wires": []
     },
     {
-        "id": "a0f8742db2253306",
+        "id": "ab095cc52066e4d6",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "マリーゴールド表示",
         "info": "",
         "x": 210,
-        "y": 1900,
+        "y": 1940,
         "wires": []
     },
     {
-        "id": "eb5fed0aefcfdca8",
+        "id": "780d856e0f05cba1",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "マリーゴールドの状態表示",
         "info": "",
         "x": 970,
-        "y": 2280,
+        "y": 2440,
         "wires": []
     },
     {
-        "id": "e1c3a98c8f8f1f7f",
+        "id": "0c40a6af8d012b84",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ユーザー情報の表示",
         "info": "",
         "x": 210,
-        "y": 2000,
+        "y": 2120,
         "wires": []
     },
     {
-        "id": "85d3cd928495d8a9",
+        "id": "72ff0322ccc1cd83",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 2",
         "mode": "link",
         "links": [
-            "0085e2d92f13b880",
+            "305fbce533cda90b",
             "7e09d71e5e5a204c",
-            "9dc8f5d731122192"
+            "cb4ecce6710c0e7a"
         ],
         "x": 1035,
         "y": 1260,
         "wires": []
     },
     {
-        "id": "0085e2d92f13b880",
+        "id": "305fbce533cda90b",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 2",
         "links": [
-            "85d3cd928495d8a9"
+            "72ff0322ccc1cd83"
         ],
         "x": 135,
-        "y": 2040,
+        "y": 2140,
         "wires": [
             [
-                "5fad1b92300f68db",
-                "4ce834d0b0999f48",
-                "61bc51a06fd65289",
-                "f79497c25d5e1900"
+                "232201aa3d3a3474",
+                "c4d459c80f5b2a04",
+                "6c89920424890a6e",
+                "3ac1b2d94133f3af"
             ]
         ]
     },
     {
-        "id": "0b070929d1e4a841",
+        "id": "662621c250ab9afa",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "usernameを格納",
         "func": "msg.payload = msg.user\nmsg.topic = msg.user\nflow.set(\"username\", msg.user);\nreturn msg;",
         "outputs": 1,
@@ -2367,15 +2368,15 @@
         "y": 1260,
         "wires": [
             [
-                "85d3cd928495d8a9",
-                "ae86ca1fc013a3fc"
+                "72ff0322ccc1cd83",
+                "29ca7ea7fbadd1f7"
             ]
         ]
     },
     {
-        "id": "ae86ca1fc013a3fc",
+        "id": "29ca7ea7fbadd1f7",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 12",
         "active": true,
         "tosidebar": true,
@@ -2390,9 +2391,9 @@
         "wires": []
     },
     {
-        "id": "5fad1b92300f68db",
+        "id": "232201aa3d3a3474",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/getflowerData\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'username': msg.payload\n};\nreturn msg;",
         "outputs": 1,
@@ -2402,18 +2403,18 @@
         "finalize": "",
         "libs": [],
         "x": 260,
-        "y": 2120,
+        "y": 2240,
         "wires": [
             [
-                "f8f0d3fe3079fb93",
-                "60e5c60dd65dad6b"
+                "d8835e92eaa8ecad",
+                "c2e19855206ac6f0"
             ]
         ]
     },
     {
-        "id": "60e5c60dd65dad6b",
+        "id": "c2e19855206ac6f0",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -2427,20 +2428,20 @@
         "senderr": false,
         "headers": [],
         "x": 450,
-        "y": 2120,
+        "y": 2240,
         "wires": [
             [
-                "8d1cf917a5d17e77",
-                "2a102dae2ae0a399",
-                "35a01ea126017033",
-                "b191336edba81c1f"
+                "31b00cf3264947d6",
+                "0e771c28f071cbea",
+                "cd5bcaada422fa59",
+                "08d4a34e064ed970"
             ]
         ]
     },
     {
-        "id": "f8f0d3fe3079fb93",
+        "id": "d8835e92eaa8ecad",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 13",
         "active": true,
         "tosidebar": true,
@@ -2451,13 +2452,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 440,
-        "y": 2160,
+        "y": 2280,
         "wires": []
     },
     {
-        "id": "8d1cf917a5d17e77",
+        "id": "31b00cf3264947d6",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 14",
         "active": true,
         "tosidebar": true,
@@ -2466,14 +2467,14 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 740,
-        "y": 2060,
+        "x": 650,
+        "y": 2180,
         "wires": []
     },
     {
-        "id": "1e50f5c2de5d9f42",
+        "id": "f1943873748ac336",
         "type": "switch",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "property": "payload['state']",
         "propertyType": "msg",
@@ -2496,20 +2497,20 @@
         "y": 1520,
         "wires": [
             [
-                "9425e2c9b1639a45",
-                "93e457f88f0a6abe",
-                "063abbfba78bae22",
-                "1e9b59d3283e45db"
+                "0701e01606513093",
+                "b33439afbe97f0e5",
+                "be6c360423ff80ba",
+                "b6a532935eb5048d"
             ],
             [
-                "be3efcf69bf12173"
+                "70c31a32c288beef"
             ]
         ]
     },
     {
-        "id": "be3efcf69bf12173",
+        "id": "70c31a32c288beef",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "失敗原因の確認",
         "active": true,
         "tosidebar": true,
@@ -2524,9 +2525,9 @@
         "wires": []
     },
     {
-        "id": "2a102dae2ae0a399",
+        "id": "0e771c28f071cbea",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 11",
         "func": "msg.payload = msg.payload['fertilizer']\nreturn msg;",
         "outputs": 1,
@@ -2535,63 +2536,63 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 2180,
+        "x": 660,
+        "y": 2300,
         "wires": [
             [
-                "35cfa3b84aee23e8"
+                "d7259c7944d840f1"
             ]
         ]
     },
     {
-        "id": "b5ea479b030c08f2",
+        "id": "7793f663ec14a04e",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "water注入",
         "links": [
-            "2c51094856275bb4"
+            "2253183a55c24a58"
         ],
         "x": 385,
         "y": 1600,
         "wires": [
             [
-                "71835e64f909180f"
+                "b25b26be734227c2"
             ]
         ]
     },
     {
-        "id": "da6d5cd4bc427470",
+        "id": "45a575a17c5d8ca7",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "fertilizer注入",
         "links": [
-            "35cfa3b84aee23e8"
+            "d7259c7944d840f1"
         ],
         "x": 385,
         "y": 1760,
         "wires": [
             [
-                "43cf4ebc2dc2bc5f"
+                "7af207b94d00892f"
             ]
         ]
     },
     {
-        "id": "35cfa3b84aee23e8",
+        "id": "d7259c7944d840f1",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 3",
         "mode": "link",
         "links": [
-            "da6d5cd4bc427470"
+            "45a575a17c5d8ca7"
         ],
-        "x": 965,
-        "y": 2080,
+        "x": 875,
+        "y": 2200,
         "wires": []
     },
     {
-        "id": "35a01ea126017033",
+        "id": "cd5bcaada422fa59",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 12",
         "func": "msg.payload = msg.payload['water']\nreturn msg;",
         "outputs": 1,
@@ -2600,31 +2601,31 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 2140,
+        "x": 660,
+        "y": 2260,
         "wires": [
             [
-                "2c51094856275bb4"
+                "2253183a55c24a58"
             ]
         ]
     },
     {
-        "id": "2c51094856275bb4",
+        "id": "2253183a55c24a58",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 4",
         "mode": "link",
         "links": [
-            "b5ea479b030c08f2"
+            "7793f663ec14a04e"
         ],
-        "x": 965,
-        "y": 2040,
+        "x": 875,
+        "y": 2160,
         "wires": []
     },
     {
-        "id": "71835e64f909180f",
+        "id": "b25b26be734227c2",
         "type": "ui_gauge",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "water_gauge",
         "group": "0f4037e93a3d0626",
         "order": 4,
@@ -2650,29 +2651,29 @@
         "wires": []
     },
     {
-        "id": "75737e077c9e0d06",
+        "id": "9fa914abc767af82",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "花の状態を注入",
         "links": [
-            "9db1943ef120d42b"
+            "12850c29bba4ad45"
         ],
         "x": 895,
-        "y": 2400,
+        "y": 2560,
         "wires": [
             [
-                "8523bc35e54ab476",
-                "66359bb8d93da197",
-                "79426e1eeca82a34",
-                "4d06891d7ab17c57",
-                "edee159787651fc4"
+                "5eace512826abc64",
+                "78d99abd748c28f8",
+                "e62be8ea524fac77",
+                "1347fef563d79cb0",
+                "27b5697bc7e7527d"
             ]
         ]
     },
     {
-        "id": "b191336edba81c1f",
+        "id": "08d4a34e064ed970",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 13",
         "func": "msg.payload = msg.payload['state']\nreturn msg;",
         "outputs": 1,
@@ -2681,50 +2682,50 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 2100,
+        "x": 660,
+        "y": 2220,
         "wires": [
             [
-                "d70ca092f2d66a46"
+                "74b6ce09778661ad"
             ]
         ]
     },
     {
-        "id": "d70ca092f2d66a46",
+        "id": "74b6ce09778661ad",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 5",
         "mode": "link",
         "links": [],
-        "x": 965,
-        "y": 2000,
+        "x": 875,
+        "y": 2120,
         "wires": []
     },
     {
-        "id": "845004a5864f07d3",
+        "id": "797dcb443aa41daf",
         "type": "ui_template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "3baf9f54646316e4",
         "name": "メインウィンドウ",
         "order": 1,
         "width": 8,
         "height": 9,
-        "format": "<div class=\"test\">\n    <img src=\"http://localhost:1880/image/modified_flower_800.png\" alt=\"msg.image\" id=\"flower\">\n</div>",
+        "format": "<div class=\"test\">\n    <img src=\"http://localhost:1880/image/999.png\" alt=\"msg.image\" id=\"flower\">\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 210,
-        "y": 1940,
+        "x": 690,
+        "y": 1980,
         "wires": [
             []
         ]
     },
     {
-        "id": "4ce834d0b0999f48",
+        "id": "c4d459c80f5b2a04",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "tooltipを設定",
         "func": "let user = String(msg.user)\n\n//msg.tooltip = user\n\nmsg.tooltip = flow.get(\"username\");\n\n// {{tooltip}}は動的に変化しないことが発覚した\n// したがってtooltip自体はuser_infoという静的な表記に変更した．\n\nreturn msg;",
         "outputs": 1,
@@ -2734,18 +2735,18 @@
         "finalize": "",
         "libs": [],
         "x": 250,
-        "y": 2040,
+        "y": 2160,
         "wires": [
             [
-                "9a68652c24406684",
-                "5cf305e0fa309e16"
+                "0c07d6c48a7a332b",
+                "9d07eb0ad65c54e4"
             ]
         ]
     },
     {
-        "id": "9a68652c24406684",
+        "id": "0c07d6c48a7a332b",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 15",
         "active": true,
         "tosidebar": true,
@@ -2756,13 +2757,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 400,
-        "y": 2000,
+        "y": 2120,
         "wires": []
     },
     {
-        "id": "61bc51a06fd65289",
+        "id": "6c89920424890a6e",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ui設定",
         "func": "msg.payload = {\n    group:{\n        hide:[\"Application_temperature_window\",\"Application_humidity_window\",\"Application_fetilizer_window\" ],\n        show:[\"Application_temperature_window\",\"Application_humidity_window\",\"Application_co2_window\", \"Application_fetilizer_window\", \"Application_water_window\"],\n    }\n}\nreturn msg;",
         "outputs": 1,
@@ -2772,29 +2773,29 @@
         "finalize": "",
         "libs": [],
         "x": 230,
-        "y": 2080,
+        "y": 2200,
         "wires": [
             [
-                "d282da4d2966c9b9"
+                "2cc8828a27eb1faf"
             ]
         ]
     },
     {
-        "id": "d282da4d2966c9b9",
+        "id": "2cc8828a27eb1faf",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "change",
         "x": 400,
-        "y": 2080,
+        "y": 2200,
         "wires": [
             []
         ]
     },
     {
-        "id": "5dd5202a345ded13",
+        "id": "d89871475b084ab8",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Totemperature",
         "group": "6229a5b6866e8146",
         "order": 2,
@@ -2812,17 +2813,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 200,
-        "y": 2540,
+        "y": 2700,
         "wires": [
             [
-                "b4e7ce800469731b"
+                "44776a609d436e10"
             ]
         ]
     },
     {
-        "id": "efec44a10e08d03b",
+        "id": "20ea4ebe33149fb5",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Tohumidity",
         "group": "6229a5b6866e8146",
         "order": 1,
@@ -2840,17 +2841,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 190,
-        "y": 2320,
+        "y": 2480,
         "wires": [
             [
-                "bfe1ff0403b27f29"
+                "c9515d9d7a5f2ffb"
             ]
         ]
     },
     {
-        "id": "cc85126844705b72",
+        "id": "189c99af03765ee2",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Toco2",
         "group": "5b7313b354518b0e",
         "order": 1,
@@ -2868,17 +2869,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 170,
-        "y": 2360,
+        "y": 2520,
         "wires": [
             [
-                "bfe1ff0403b27f29"
+                "c9515d9d7a5f2ffb"
             ]
         ]
     },
     {
-        "id": "375f24050b2ad164",
+        "id": "e3e4c1be201d1fe9",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Tohumidity",
         "group": "5b7313b354518b0e",
         "order": 2,
@@ -2896,17 +2897,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 190,
-        "y": 2460,
+        "y": 2620,
         "wires": [
             [
-                "b4e7ce800469731b"
+                "44776a609d436e10"
             ]
         ]
     },
     {
-        "id": "7c08d95b4d8804e6",
+        "id": "62d3e6582d6f1f4d",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Totemperature",
         "group": "fcd2a9620a5003c7",
         "order": 2,
@@ -2924,17 +2925,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 200,
-        "y": 2400,
+        "y": 2560,
         "wires": [
             [
-                "bfe1ff0403b27f29"
+                "c9515d9d7a5f2ffb"
             ]
         ]
     },
     {
-        "id": "746b49a475c05dc3",
+        "id": "5861c46d70e226ea",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Toco2",
         "group": "fcd2a9620a5003c7",
         "order": 4,
@@ -2952,17 +2953,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 170,
-        "y": 2500,
+        "y": 2660,
         "wires": [
             [
-                "b4e7ce800469731b"
+                "44776a609d436e10"
             ]
         ]
     },
     {
-        "id": "bfe1ff0403b27f29",
+        "id": "c9515d9d7a5f2ffb",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ui設定",
         "func": "const nowGroupList = {\n    \"humidity_window\":\"co2_window\",\n    \"co2_window\":\"temperature_window\",\n    \"temperature_window\":\"humidity_window\"\n}\n\n\nlet nowGroup = nowGroupList[msg.payload]\nlet nextGroup = msg.payload\n\nlet hide_message = \"Application1_\" + nowGroup\nlet show_message = \"Application1_\" + nextGroup\n\n\nmsg.payload = {\n    \"group\":{\n        \"hide\":[hide_message],\n        \"show\":[show_message]\n    }\n}\n\nreturn msg;",
         "outputs": 1,
@@ -2972,18 +2973,18 @@
         "finalize": "",
         "libs": [],
         "x": 370,
-        "y": 2360,
+        "y": 2520,
         "wires": [
             [
-                "674fb4877ef2b357",
-                "d2f25be84531786c"
+                "59c2c577fd8d4976",
+                "c53e14543f7c694c"
             ]
         ]
     },
     {
-        "id": "b4e7ce800469731b",
+        "id": "44776a609d436e10",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ui設定",
         "func": "\nconst nowGroupList = {\n    \"temperature_window\": \"co2_window\",\n    \"co2_window\": \"humidity_window\",\n    \"humidity_window\": \"temperature_window\"\n}\n\n\nlet nowGroup = nowGroupList[msg.payload]\nlet nextGroup = msg.payload\n\nlet hide_message = \"Application1_\" + nowGroup\nlet show_message = \"Application1_\" + nextGroup\n\nmsg.payload = {\n    \"group\": {\n        \"hide\": [hide_message],\n        \"show\": [show_message]\n    }\n}\nreturn msg;",
         "outputs": 1,
@@ -2993,17 +2994,17 @@
         "finalize": "",
         "libs": [],
         "x": 370,
-        "y": 2500,
+        "y": 2660,
         "wires": [
             [
-                "d2f25be84531786c"
+                "c53e14543f7c694c"
             ]
         ]
     },
     {
-        "id": "baebf2882473f351",
+        "id": "ec2745160ebf36a3",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 18",
         "active": true,
         "tosidebar": true,
@@ -3014,13 +3015,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 660,
-        "y": 2360,
+        "y": 2520,
         "wires": []
     },
     {
-        "id": "674fb4877ef2b357",
+        "id": "59c2c577fd8d4976",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 19",
         "active": true,
         "tosidebar": true,
@@ -3031,37 +3032,37 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 520,
-        "y": 2320,
+        "y": 2480,
         "wires": []
     },
     {
-        "id": "d2f25be84531786c",
+        "id": "c53e14543f7c694c",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "change",
         "x": 520,
-        "y": 2360,
+        "y": 2520,
         "wires": [
             [
-                "baebf2882473f351"
+                "ec2745160ebf36a3"
             ]
         ]
     },
     {
-        "id": "343034d5b5b8fd84",
+        "id": "099969735e065b58",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "環境グラフの遷移構造",
         "info": "",
         "x": 220,
-        "y": 2280,
+        "y": 2440,
         "wires": []
     },
     {
-        "id": "fd1ff9160f6ca054",
+        "id": "03848b789dea044c",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "フィーディングの遷移構造",
         "info": "",
         "x": 1210,
@@ -3069,9 +3070,9 @@
         "wires": []
     },
     {
-        "id": "90430c9255973914",
+        "id": "1d68aa94b4d037f0",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Tofetilizer",
         "group": "0f4037e93a3d0626",
         "order": 2,
@@ -3092,14 +3093,14 @@
         "y": 1920,
         "wires": [
             [
-                "c07c1a97c78f5b55"
+                "717a297aaae3ac74"
             ]
         ]
     },
     {
-        "id": "5f8974716a1b076b",
+        "id": "aee990b0cd71d9e4",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "Towater",
         "group": "805e488a9f943934",
         "order": 2,
@@ -3120,14 +3121,14 @@
         "y": 1960,
         "wires": [
             [
-                "c07c1a97c78f5b55"
+                "717a297aaae3ac74"
             ]
         ]
     },
     {
-        "id": "c07c1a97c78f5b55",
+        "id": "717a297aaae3ac74",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ui設定",
         "func": "const nowGroupList = {\n    \"water_window\":\"fetilizer_window\",\n    \"fetilizer_window\":\"water_window\"\n}\n\n\nlet nowGroup = nowGroupList[msg.payload]\nlet nextGroup = msg.payload\n\nlet hide_message = \"Application1_\" + nowGroup\nlet show_message = \"Application1_\" + nextGroup\n\n\nmsg.payload = {\n    \"group\":{\n        \"hide\":[hide_message],\n        \"show\":[show_message]\n    }\n}\n\nreturn msg;",
         "outputs": 1,
@@ -3140,14 +3141,14 @@
         "y": 1940,
         "wires": [
             [
-                "1891d01827b8ee2a"
+                "78086d7180e3a8fa"
             ]
         ]
     },
     {
-        "id": "1891d01827b8ee2a",
+        "id": "78086d7180e3a8fa",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "フィーディングの遷移を行う",
         "events": "change",
         "x": 1540,
@@ -3157,9 +3158,9 @@
         ]
     },
     {
-        "id": "5cf305e0fa309e16",
+        "id": "9d07eb0ad65c54e4",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ユーザー",
         "group": "e77efef5c32cb49f",
         "order": 1,
@@ -3177,17 +3178,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 400,
-        "y": 2040,
+        "y": 2160,
         "wires": [
             [
-                "dec12b6baee9cef8"
+                "2b5ff24728642bc9"
             ]
         ]
     },
     {
-        "id": "f79497c25d5e1900",
+        "id": "3ac1b2d94133f3af",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 20",
         "active": true,
         "tosidebar": true,
@@ -3197,13 +3198,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 240,
-        "y": 2160,
+        "y": 2280,
         "wires": []
     },
     {
-        "id": "9f43d5e7476dbf42",
+        "id": "e863068f481a7d00",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -3220,16 +3221,16 @@
         "y": 2160,
         "wires": [
             [
-                "7b39874a42c407c3",
-                "ee569cbd269e6941",
-                "9b3c1fac0c71244a"
+                "a24ef7b241d7c41f",
+                "55c91d08f1262ab6",
+                "0e431aea2e2980b8"
             ]
         ]
     },
     {
-        "id": "391ba2dbac9d1343",
+        "id": "976dcdd33162f431",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "天気情報の取得",
         "info": "",
         "x": 1180,
@@ -3237,9 +3238,9 @@
         "wires": []
     },
     {
-        "id": "7b39874a42c407c3",
+        "id": "a24ef7b241d7c41f",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 21",
         "active": true,
         "tosidebar": true,
@@ -3254,9 +3255,9 @@
         "wires": []
     },
     {
-        "id": "999d3696ef4defd3",
+        "id": "ff34841146f06388",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/getWeatherData\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'weather_code': msg.weather_code\n};\nreturn msg;",
         "outputs": 1,
@@ -3269,14 +3270,14 @@
         "y": 2160,
         "wires": [
             [
-                "9f43d5e7476dbf42"
+                "e863068f481a7d00"
             ]
         ]
     },
     {
-        "id": "edca15fec0351bc1",
+        "id": "1e3dfcc791de3bff",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -3293,14 +3294,14 @@
         "y": 2100,
         "wires": [
             [
-                "617c048a4fe366f6"
+                "d8cedb2168199891"
             ]
         ]
     },
     {
-        "id": "617c048a4fe366f6",
+        "id": "d8cedb2168199891",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 22",
         "func": "msg.weather_code = msg.payload[0]['timeSeries'][0]['areas'][1]['weatherCodes'][0]\nreturn msg;",
         "outputs": 1,
@@ -3313,15 +3314,15 @@
         "y": 2100,
         "wires": [
             [
-                "3dbe545e3ac43a67",
-                "999d3696ef4defd3"
+                "13ef8ef4223fed08",
+                "ff34841146f06388"
             ]
         ]
     },
     {
-        "id": "3dbe545e3ac43a67",
+        "id": "13ef8ef4223fed08",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 23",
         "active": true,
         "tosidebar": true,
@@ -3336,9 +3337,9 @@
         "wires": []
     },
     {
-        "id": "0a690365b7325dde",
+        "id": "8d7d2db381a6de1f",
         "type": "inject",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "props": [
             {
@@ -3361,31 +3362,31 @@
         "y": 2060,
         "wires": [
             [
-                "edca15fec0351bc1",
-                "6ba1dcd6fe18a5ba"
+                "1e3dfcc791de3bff",
+                "6066ac95e9eaea77"
             ]
         ]
     },
     {
-        "id": "9dc8f5d731122192",
+        "id": "cb4ecce6710c0e7a",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 3",
         "links": [
-            "85d3cd928495d8a9"
+            "72ff0322ccc1cd83"
         ],
         "x": 1285,
         "y": 2100,
         "wires": [
             [
-                "edca15fec0351bc1"
+                "1e3dfcc791de3bff"
             ]
         ]
     },
     {
-        "id": "820c36ccb498e840",
+        "id": "af411be8c9db6b27",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "天気アイコンを出力",
         "group": "e77efef5c32cb49f",
         "order": 2,
@@ -3406,14 +3407,14 @@
         "y": 2200,
         "wires": [
             [
-                "e3ca2fd8467f1fcf"
+                "53c2988acff02071"
             ]
         ]
     },
     {
-        "id": "ee569cbd269e6941",
+        "id": "55c91d08f1262ab6",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 23",
         "func": "let code = msg.payload.code\nlet img\n\nif (code < 499) img = \"ac_unit\";\nif (code < 399) img = \"grain\";\nif (code < 299) img = \"wb_cloudy\";\nif (code < 199) img = \"wb_sunny\";\n\nmsg.icon = img\nmsg.tooltip = msg.payload['explanation']\nreturn msg;",
         "outputs": 1,
@@ -3426,14 +3427,14 @@
         "y": 2200,
         "wires": [
             [
-                "820c36ccb498e840"
+                "af411be8c9db6b27"
             ]
         ]
     },
     {
-        "id": "1e9b59d3283e45db",
+        "id": "b6a532935eb5048d",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
         "func": "let http = flow.get(\"url\")\nmsg.environment = msg.payload\n\nmsg.method = \"GET\";\nmsg.url = http + \"/getFlowerStateFromDB\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    username:flow.get(\"username\")\n};\nreturn msg;",
         "outputs": 1,
@@ -3446,14 +3447,14 @@
         "y": 1500,
         "wires": [
             [
-                "11b019266430b24b"
+                "e40c70d80339ac1d"
             ]
         ]
     },
     {
-        "id": "1ecfb6ccf4ebd561",
+        "id": "f3083096c95ef9c5",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -3470,15 +3471,15 @@
         "y": 1500,
         "wires": [
             [
-                "2cb5075ba7325e3a",
-                "aaa171f369ec6418"
+                "ef78f9217b646662",
+                "e8c6efb1fccb3298"
             ]
         ]
     },
     {
-        "id": "2cb5075ba7325e3a",
+        "id": "ef78f9217b646662",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "マリーゴールドの成長判定に使用する全パラメータを整理",
         "func": "msg.water = msg.payload['water']\nmsg.status = msg.payload['flower_status']\nmsg.fetilizer = msg.payload['fertilizer']\nmsg.livet = msg.payload['live_time']\nmsg.droopt = msg.payload['droop_time']\nmsg.withert = msg.payload['wither_time']\nmsg.deatht = msg.payload['death_time']\nmsg.allInStatet = msg.payload['in_the_status_time']\n\nreturn msg;\n",
         "outputs": 1,
@@ -3491,17 +3492,17 @@
         "y": 1540,
         "wires": [
             [
-                "33389fade4b74f55",
-                "9db1943ef120d42b"
+                "76cb52d5d0daefee",
+                "12850c29bba4ad45"
             ]
         ]
     },
     {
-        "id": "5e99d5634d7a3ee5",
+        "id": "ee2723d8811c4627",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "アイコン選定",
-        "func": "let status = msg.status\n\nstatus = Math.round(status/10)\n\nif (status == 0) {msg.icon = \"bubble_chart\"; msg.tooltip = \"Lv.1\"}\nif (status == 1) {msg.icon = \"expand_more\"; msg.tooltip = \"Lv.2\"}\nif (status == 2) {msg.icon = \"arrow_downward\"; msg.tooltip = \"Lv.3\"}\nif (status == 3) {msg.icon = \"nature\"; msg.tooltip = \"Lv.4\"}\nif (status == 4) {msg.icon = \"spa\"; msg.tooltip = \"Lv.5\"}\nif (status == 5) {msg.icon = \"local_florist\"; msg.tooltip = \"great\"}\n\nreturn msg;",
+        "func": "let status = msg.status\nif (status > 10) status = Math.round(status/10)\n\nif (status == 0) {msg.icon = \"bubble_chart\"; msg.tooltip = \"Lv.0\"}\nif (status == 1) {msg.icon = \"expand_more\"; msg.tooltip = \"Lv.1\"}\nif (status == 2) {msg.icon = \"arrow_downward\"; msg.tooltip = \"Lv.2\"}\nif (status == 3) {msg.icon = \"nature\"; msg.tooltip = \"Lv.3\"}\nif (status == 4) {msg.icon = \"spa\"; msg.tooltip = \"Lv.4\"}\nif (status == 5) {msg.icon = \"local_florist\"; msg.tooltip = \"Lv.5(Max)\"}\n\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -3509,18 +3510,18 @@
         "finalize": "",
         "libs": [],
         "x": 1020,
-        "y": 2520,
+        "y": 2680,
         "wires": [
             [
-                "603e78edca08b053",
-                "41b0c3447bf6dc41"
+                "1debe4da2c0a3a72",
+                "06513570be441027"
             ]
         ]
     },
     {
-        "id": "33389fade4b74f55",
+        "id": "76cb52d5d0daefee",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 24",
         "active": true,
         "tosidebar": true,
@@ -3534,43 +3535,44 @@
         "wires": []
     },
     {
-        "id": "9db1943ef120d42b",
+        "id": "12850c29bba4ad45",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 6",
         "mode": "link",
         "links": [
-            "4c47fccb7a5699b9",
-            "feaf0ca295bf7720",
-            "75737e077c9e0d06",
-            "4d15677f2eec3ad4"
+            "ec0bb698b24824da",
+            "3135daeb94c2db9b",
+            "9fa914abc767af82",
+            "18c9d25e9014bd5a",
+            "c95b021835d0918d"
         ],
         "x": 1715,
         "y": 1580,
         "wires": []
     },
     {
-        "id": "4c47fccb7a5699b9",
+        "id": "ec0bb698b24824da",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 4",
         "links": [
-            "9db1943ef120d42b"
+            "12850c29bba4ad45"
         ],
-        "x": 595,
-        "y": 1980,
+        "x": 505,
+        "y": 2100,
         "wires": [
             [
-                "2bb00ff3e20cad5b",
-                "e67f04db410a0aa5",
-                "3a910714e226f43f"
+                "b0b7f71570066553",
+                "40a1870f5b106e92",
+                "4237462759570680"
             ]
         ]
     },
     {
-        "id": "aaa171f369ec6418",
+        "id": "e8c6efb1fccb3298",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 25",
         "active": true,
         "tosidebar": true,
@@ -3584,9 +3586,9 @@
         "wires": []
     },
     {
-        "id": "3a910714e226f43f",
+        "id": "4237462759570680",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 26",
         "func": "msg.payload = msg.fetilizer\nreturn msg;",
         "outputs": 1,
@@ -3595,18 +3597,18 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 2020,
+        "x": 660,
+        "y": 2140,
         "wires": [
             [
-                "35cfa3b84aee23e8"
+                "d7259c7944d840f1"
             ]
         ]
     },
     {
-        "id": "e67f04db410a0aa5",
+        "id": "40a1870f5b106e92",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 27",
         "func": "msg.payload = msg.water\nreturn msg;",
         "outputs": 1,
@@ -3615,18 +3617,18 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 1980,
+        "x": 660,
+        "y": 2100,
         "wires": [
             [
-                "2c51094856275bb4"
+                "2253183a55c24a58"
             ]
         ]
     },
     {
-        "id": "2bb00ff3e20cad5b",
+        "id": "b0b7f71570066553",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "function 28",
         "func": "msg.payload = msg.status\nreturn msg;",
         "outputs": 1,
@@ -3635,18 +3637,18 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 750,
-        "y": 1940,
+        "x": 660,
+        "y": 2060,
         "wires": [
             [
-                "d70ca092f2d66a46"
+                "74b6ce09778661ad"
             ]
         ]
     },
     {
-        "id": "84866c73de702c28",
+        "id": "5b498f58c0785323",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "toMax",
         "func": "msg.payload = 100\nmsg.which = \"water\"\nreturn msg;",
         "outputs": 1,
@@ -3659,15 +3661,15 @@
         "y": 1640,
         "wires": [
             [
-                "71835e64f909180f",
-                "9bf7a64f7ec6d709"
+                "b25b26be734227c2",
+                "5a50fc5d8183f75a"
             ]
         ]
     },
     {
-        "id": "61320ca7c9371274",
+        "id": "74114f8e81357a1a",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "toMax",
         "func": "msg.payload = 100\nmsg.which = \"fertilizer\"\nreturn msg;",
         "outputs": 1,
@@ -3680,15 +3682,15 @@
         "y": 1720,
         "wires": [
             [
-                "43cf4ebc2dc2bc5f",
-                "9bf7a64f7ec6d709"
+                "7af207b94d00892f",
+                "5a50fc5d8183f75a"
             ]
         ]
     },
     {
-        "id": "9bf7a64f7ec6d709",
+        "id": "5a50fc5d8183f75a",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ボタンの結果を反映",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/setWaterAndFrtilizer\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nif (msg.which == \"water\"){\n    msg.payload = {\n        water:100,\n        which:\"water\",\n        username:flow.get(\"username\")\n    };\n}\nif(msg.which == \"fertilizer\"){\n    msg.payload = {\n        fertilizer:100,\n        which:\"fertilizer\",\n        username:flow.get(\"username\")\n    };\n}\nreturn msg;",
         "outputs": 1,
@@ -3701,14 +3703,14 @@
         "y": 1680,
         "wires": [
             [
-                "c747b0c5b49aef10"
+                "755d22f6cece3e03"
             ]
         ]
     },
     {
-        "id": "c747b0c5b49aef10",
+        "id": "755d22f6cece3e03",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -3725,15 +3727,15 @@
         "y": 1680,
         "wires": [
             [
-                "48a8a462f870bf89",
-                "5e3ea095bcda866a"
+                "2a552f38b2970891",
+                "56a6daaed029b2d1"
             ]
         ]
     },
     {
-        "id": "11b019266430b24b",
+        "id": "e40c70d80339ac1d",
         "type": "switch",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "property": "payload['username']",
         "propertyType": "msg",
@@ -3752,17 +3754,17 @@
         "y": 1500,
         "wires": [
             [
-                "1f472b6a10928103"
+                "4c0b747e7eb46cd8"
             ],
             [
-                "1ecfb6ccf4ebd561"
+                "f3083096c95ef9c5"
             ]
         ]
     },
     {
-        "id": "1f472b6a10928103",
+        "id": "4c0b747e7eb46cd8",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 26",
         "active": true,
         "tosidebar": true,
@@ -3776,25 +3778,25 @@
         "wires": []
     },
     {
-        "id": "feaf0ca295bf7720",
+        "id": "3135daeb94c2db9b",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 5",
         "links": [
-            "9db1943ef120d42b"
+            "12850c29bba4ad45"
         ],
         "x": 895,
-        "y": 2520,
+        "y": 2680,
         "wires": [
             [
-                "5e99d5634d7a3ee5"
+                "ee2723d8811c4627"
             ]
         ]
     },
     {
-        "id": "603e78edca08b053",
+        "id": "1debe4da2c0a3a72",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "状態を画像で表示",
         "group": "e77efef5c32cb49f",
         "order": 4,
@@ -3812,15 +3814,15 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1230,
-        "y": 2520,
+        "y": 2680,
         "wires": [
             []
         ]
     },
     {
-        "id": "48a8a462f870bf89",
+        "id": "2a552f38b2970891",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 7",
         "mode": "link",
         "links": [],
@@ -3829,23 +3831,23 @@
         "wires": []
     },
     {
-        "id": "32ce1e88eacf12c6",
+        "id": "b8441b236cead2d8",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 6",
         "links": [],
         "x": 605,
         "y": 1540,
         "wires": [
             [
-                "4452023b3c88ab43"
+                "52a8c3aeebbd0639"
             ]
         ]
     },
     {
-        "id": "5e3ea095bcda866a",
+        "id": "56a6daaed029b2d1",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 27",
         "active": true,
         "tosidebar": true,
@@ -3859,9 +3861,9 @@
         "wires": []
     },
     {
-        "id": "41b0c3447bf6dc41",
+        "id": "06513570be441027",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 28",
         "active": true,
         "tosidebar": true,
@@ -3872,13 +3874,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1200,
-        "y": 2560,
+        "y": 2720,
         "wires": []
     },
     {
-        "id": "8523bc35e54ab476",
+        "id": "5eace512826abc64",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "8b61b37f135cdb1e",
         "order": 1,
         "width": 1,
@@ -3893,13 +3895,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1040,
-        "y": 2320,
+        "y": 2480,
         "wires": []
     },
     {
-        "id": "79426e1eeca82a34",
+        "id": "e62be8ea524fac77",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "8b61b37f135cdb1e",
         "order": 3,
         "width": 1,
@@ -3914,13 +3916,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1040,
-        "y": 2400,
+        "y": 2560,
         "wires": []
     },
     {
-        "id": "4d06891d7ab17c57",
+        "id": "1347fef563d79cb0",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "8b61b37f135cdb1e",
         "order": 4,
         "width": 1,
@@ -3935,13 +3937,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1030,
-        "y": 2440,
+        "y": 2600,
         "wires": []
     },
     {
-        "id": "edee159787651fc4",
+        "id": "27b5697bc7e7527d",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "8b61b37f135cdb1e",
         "order": 5,
         "width": 1,
@@ -3956,13 +3958,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1040,
-        "y": 2480,
+        "y": 2640,
         "wires": []
     },
     {
-        "id": "66359bb8d93da197",
+        "id": "78d99abd748c28f8",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "8b61b37f135cdb1e",
         "order": 2,
         "width": 1,
@@ -3977,13 +3979,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1040,
-        "y": 2360,
+        "y": 2520,
         "wires": []
     },
     {
-        "id": "271fb881800561b1",
+        "id": "8b7beea53b63be06",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "更新した時刻",
         "group": "e77efef5c32cb49f",
         "order": 5,
@@ -4007,26 +4009,26 @@
         ]
     },
     {
-        "id": "4d15677f2eec3ad4",
+        "id": "18c9d25e9014bd5a",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 7",
         "links": [
-            "9db1943ef120d42b",
-            "6ba1dcd6fe18a5ba"
+            "12850c29bba4ad45",
+            "6066ac95e9eaea77"
         ],
         "x": 135,
         "y": 1860,
         "wires": [
             [
-                "271fb881800561b1"
+                "8b7beea53b63be06"
             ]
         ]
     },
     {
-        "id": "6f7856b8f7b1c5da",
+        "id": "3f090108751840dd",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "info": "",
         "x": 180,
@@ -4034,22 +4036,22 @@
         "wires": []
     },
     {
-        "id": "6ba1dcd6fe18a5ba",
+        "id": "6066ac95e9eaea77",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 8",
         "mode": "link",
         "links": [
-            "4d15677f2eec3ad4"
+            "18c9d25e9014bd5a"
         ],
         "x": 1335,
         "y": 2060,
         "wires": []
     },
     {
-        "id": "6f59a87df949a16b",
+        "id": "a02f21d05ced7982",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -4058,29 +4060,29 @@
         "template": "{\n    \"tab\": \"user_info\"\n}",
         "output": "json",
         "x": 1520,
-        "y": 2360,
+        "y": 2320,
         "wires": [
             [
-                "ebfdb71e5ccb704c"
+                "6c384c1436bae3e3"
             ]
         ]
     },
     {
-        "id": "ebfdb71e5ccb704c",
+        "id": "6c384c1436bae3e3",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "all",
         "x": 1660,
-        "y": 2360,
+        "y": 2320,
         "wires": [
             []
         ]
     },
     {
-        "id": "fd1bdd3dc4698172",
+        "id": "9916072e5c689100",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "86e4957093b0dc64",
         "order": 4,
         "width": 0,
@@ -4095,53 +4097,53 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1940,
-        "y": 2400,
+        "y": 2360,
         "wires": []
     },
     {
-        "id": "a7d32f17cf96d4e8",
+        "id": "05f2d3a9ddb7bf06",
         "type": "comment",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "user_info",
         "info": "",
         "x": 1460,
-        "y": 2320,
+        "y": 2280,
         "wires": []
     },
     {
-        "id": "dec12b6baee9cef8",
+        "id": "2b5ff24728642bc9",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 9",
         "mode": "link",
         "links": [
-            "8c0cb05f35fbf146"
+            "cdcae8112082ac5a"
         ],
         "x": 495,
-        "y": 2040,
+        "y": 2160,
         "wires": []
     },
     {
-        "id": "8c0cb05f35fbf146",
+        "id": "cdcae8112082ac5a",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 8",
         "links": [
-            "dec12b6baee9cef8"
+            "2b5ff24728642bc9"
         ],
         "x": 1415,
-        "y": 2360,
+        "y": 2320,
         "wires": [
             [
-                "6f59a87df949a16b",
-                "b6e8ef5ea5a2a992"
+                "a02f21d05ced7982",
+                "180f49d3f010cf12"
             ]
         ]
     },
     {
-        "id": "b6e8ef5ea5a2a992",
+        "id": "180f49d3f010cf12",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
         "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/getTheUserInfo\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'username': flow.get(\"username\")\n};\nreturn msg;",
         "outputs": 1,
@@ -4151,17 +4153,17 @@
         "finalize": "",
         "libs": [],
         "x": 1540,
-        "y": 2400,
+        "y": 2360,
         "wires": [
             [
-                "db44849f14db1f30"
+                "212b111b6b53c827"
             ]
         ]
     },
     {
-        "id": "db44849f14db1f30",
+        "id": "212b111b6b53c827",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -4175,21 +4177,21 @@
         "senderr": false,
         "headers": [],
         "x": 1710,
-        "y": 2400,
+        "y": 2360,
         "wires": [
             [
-                "fd1bdd3dc4698172",
-                "76c965f3d2018fe5",
-                "7a104f5a87371c72",
-                "afe5f6f92fd97f1f",
-                "26edf4de60553c5e"
+                "9916072e5c689100",
+                "d47157095ac46ad4",
+                "82dd7114efb6f1b2",
+                "9c5cf83505273b12",
+                "8006e8fa3e3f7313"
             ]
         ]
     },
     {
-        "id": "76c965f3d2018fe5",
+        "id": "d47157095ac46ad4",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "86e4957093b0dc64",
         "order": 5,
         "width": 0,
@@ -4204,13 +4206,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1950,
-        "y": 2440,
+        "y": 2400,
         "wires": []
     },
     {
-        "id": "afe5f6f92fd97f1f",
+        "id": "9c5cf83505273b12",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "86e4957093b0dc64",
         "order": 6,
         "width": 0,
@@ -4225,13 +4227,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1940,
-        "y": 2520,
+        "y": 2480,
         "wires": []
     },
     {
-        "id": "7a104f5a87371c72",
+        "id": "82dd7114efb6f1b2",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "86e4957093b0dc64",
         "order": 7,
         "width": 0,
@@ -4246,13 +4248,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1950,
-        "y": 2480,
+        "y": 2440,
         "wires": []
     },
     {
-        "id": "26edf4de60553c5e",
+        "id": "8006e8fa3e3f7313",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 29",
         "active": true,
         "tosidebar": true,
@@ -4263,13 +4265,13 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1940,
-        "y": 2560,
+        "y": 2520,
         "wires": []
     },
     {
-        "id": "1c8cb1bfce0dc87b",
+        "id": "b6501ba5418447bc",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -4278,29 +4280,29 @@
         "template": "{\n    \"tab\": \"Application1\"\n}",
         "output": "json",
         "x": 1520,
-        "y": 2560,
+        "y": 2520,
         "wires": [
             [
-                "477d02aa69ef1d9e"
+                "7e3c98893fd5ee7b"
             ]
         ]
     },
     {
-        "id": "477d02aa69ef1d9e",
+        "id": "7e3c98893fd5ee7b",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "all",
         "x": 1660,
-        "y": 2560,
+        "y": 2520,
         "wires": [
             []
         ]
     },
     {
-        "id": "a51621bd49eca1f8",
+        "id": "5403e52195230224",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ToApp",
         "group": "86e4957093b0dc64",
         "order": 2,
@@ -4318,17 +4320,17 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1510,
-        "y": 2440,
+        "y": 2400,
         "wires": [
             [
-                "1c8cb1bfce0dc87b"
+                "b6501ba5418447bc"
             ]
         ]
     },
     {
-        "id": "4d20e2398ca4f419",
+        "id": "716f310aa3366431",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -4337,29 +4339,29 @@
         "template": "{\n    \"tab\": \"weather_info\"\n}",
         "output": "json",
         "x": 1520,
-        "y": 2660,
+        "y": 2620,
         "wires": [
             [
-                "d3d75f7ade21c304"
+                "8ae7c0b6503046ea"
             ]
         ]
     },
     {
-        "id": "d3d75f7ade21c304",
+        "id": "8ae7c0b6503046ea",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "all",
         "x": 1660,
-        "y": 2660,
+        "y": 2620,
         "wires": [
             []
         ]
     },
     {
-        "id": "17494ab8c6a328f4",
+        "id": "0d7a0c54a81b845a",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "5be484a48a197cce",
         "order": 4,
         "width": 0,
@@ -4374,39 +4376,39 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1960,
-        "y": 2660,
-        "wires": []
-    },
-    {
-        "id": "8a89f73d45deab52",
-        "type": "comment",
-        "z": "6f824968e1c74319",
-        "name": "weather_info",
-        "info": "",
-        "x": 1470,
         "y": 2620,
         "wires": []
     },
     {
-        "id": "a00adde90406a649",
+        "id": "f8fa38c2848a3eaa",
+        "type": "comment",
+        "z": "f265343e24ade8d5",
+        "name": "weather_info",
+        "info": "",
+        "x": 1470,
+        "y": 2580,
+        "wires": []
+    },
+    {
+        "id": "115932dc3c033e06",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 9",
         "links": [
-            "e3ca2fd8467f1fcf"
+            "53c2988acff02071"
         ],
         "x": 1415,
-        "y": 2660,
+        "y": 2620,
         "wires": [
             [
-                "4d20e2398ca4f419"
+                "716f310aa3366431"
             ]
         ]
     },
     {
-        "id": "b9359570fb3b523a",
+        "id": "8c99b4b41c14ff60",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "5be484a48a197cce",
         "order": 5,
         "width": 0,
@@ -4421,13 +4423,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1960,
-        "y": 2700,
+        "y": 2660,
         "wires": []
     },
     {
-        "id": "e3a258153b276cc1",
+        "id": "64412436e998ae68",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "5be484a48a197cce",
         "order": 6,
         "width": 0,
@@ -4442,13 +4444,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1950,
-        "y": 2780,
+        "y": 2740,
         "wires": []
     },
     {
-        "id": "979b67c357caf512",
+        "id": "3526e847f3ca1c62",
         "type": "ui_text",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "group": "5be484a48a197cce",
         "order": 7,
         "width": 0,
@@ -4463,13 +4465,13 @@
         "fontSize": 16,
         "color": "#000000",
         "x": 1930,
-        "y": 2740,
+        "y": 2700,
         "wires": []
     },
     {
-        "id": "5f023f565869505e",
+        "id": "116ccec319dd343e",
         "type": "template",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "field": "payload",
         "fieldType": "msg",
@@ -4478,29 +4480,29 @@
         "template": "{\n    \"tab\": \"Application1\"\n}",
         "output": "json",
         "x": 1520,
-        "y": 2820,
+        "y": 2780,
         "wires": [
             [
-                "2fe9d213b86a8c28"
+                "24eb27e69c879915"
             ]
         ]
     },
     {
-        "id": "2fe9d213b86a8c28",
+        "id": "24eb27e69c879915",
         "type": "ui_ui_control",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "events": "all",
         "x": 1660,
-        "y": 2820,
+        "y": 2780,
         "wires": [
             []
         ]
     },
     {
-        "id": "96af267bb7ebce02",
+        "id": "6c8f3b8fb3897b12",
         "type": "ui_button",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "ToApp",
         "group": "5be484a48a197cce",
         "order": 2,
@@ -4518,21 +4520,21 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 1510,
-        "y": 2700,
+        "y": 2660,
         "wires": [
             [
-                "5f023f565869505e"
+                "116ccec319dd343e"
             ]
         ]
     },
     {
-        "id": "9b3c1fac0c71244a",
+        "id": "0e431aea2e2980b8",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 10",
         "mode": "link",
         "links": [
-            "3768e6fc5f36f54c",
+            "f720a5ea10bd6a9f",
             "b5d4ba988d10f128"
         ],
         "x": 1715,
@@ -4540,33 +4542,33 @@
         "wires": []
     },
     {
-        "id": "3768e6fc5f36f54c",
+        "id": "f720a5ea10bd6a9f",
         "type": "link in",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link in 10",
         "links": [
-            "9b3c1fac0c71244a"
+            "0e431aea2e2980b8"
         ],
         "x": 1765,
-        "y": 2660,
+        "y": 2620,
         "wires": [
             [
-                "17494ab8c6a328f4",
-                "b9359570fb3b523a",
-                "979b67c357caf512",
-                "e3a258153b276cc1",
-                "3c1739f12e78f408"
+                "0d7a0c54a81b845a",
+                "8c99b4b41c14ff60",
+                "3526e847f3ca1c62",
+                "64412436e998ae68",
+                "470128ea550cfbe5"
             ]
         ]
     },
     {
-        "id": "e3ca2fd8467f1fcf",
+        "id": "53c2988acff02071",
         "type": "link out",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "link out 11",
         "mode": "link",
         "links": [
-            "a00adde90406a649",
+            "115932dc3c033e06",
             "6d98f6b5467407ca"
         ],
         "x": 2095,
@@ -4574,9 +4576,9 @@
         "wires": []
     },
     {
-        "id": "3c1739f12e78f408",
+        "id": "470128ea550cfbe5",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 30",
         "active": true,
         "tosidebar": true,
@@ -4586,15 +4588,15 @@
         "statusVal": "",
         "statusType": "auto",
         "x": 1940,
-        "y": 2820,
+        "y": 2780,
         "wires": []
     },
     {
-        "id": "ab3547e63f945432",
+        "id": "979857c9930f634f",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "requestの前処理",
-        "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/createInitialFlower\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'username': msg.payload['username'],\n}\nreturn msg;",
+        "func": "let http = flow.get(\"url\")\n\nmsg.method = \"GET\";\nmsg.url = http + \"/createInitialFlower\";\nmsg.headers = {\n    \"Content-Type\": \"application/json\"\n}\nmsg.payload = {\n    'username': msg.username,\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -4605,14 +4607,14 @@
         "y": 1020,
         "wires": [
             [
-                "0cefb0f6a9779ce2"
+                "26e88176cd763cf4"
             ]
         ]
     },
     {
-        "id": "0cefb0f6a9779ce2",
+        "id": "26e88176cd763cf4",
         "type": "http request",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "",
         "method": "GET",
         "ret": "obj",
@@ -4628,15 +4630,18 @@
         "x": 1210,
         "y": 1020,
         "wires": [
-            []
+            [
+                "2dabe59e985c6c20",
+                "023f69d1bf445a4d"
+            ]
         ]
     },
     {
-        "id": "424e288ba8c5f605",
+        "id": "86a1dc188e354287",
         "type": "function",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "一時的にlocalhostを指定",
-        "func": "flow.set(\"url\",\"backend:5000\")\nreturn msg;",
+        "func": "flow.set(\"url\",\"http://backend:5000\")\nflow.set(\"hostIP\", \"hostIP\");\n\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -4650,9 +4655,9 @@
         ]
     },
     {
-        "id": "249ae899658102fe",
+        "id": "2eb5b3ee1f1aa275",
         "type": "debug",
-        "z": "6f824968e1c74319",
+        "z": "f265343e24ade8d5",
         "name": "debug 31",
         "active": true,
         "tosidebar": true,
@@ -4664,5 +4669,133 @@
         "x": 1060,
         "y": 1440,
         "wires": []
+    },
+    {
+        "id": "2dabe59e985c6c20",
+        "type": "debug",
+        "z": "f265343e24ade8d5",
+        "name": "debug 32",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1360,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "023f69d1bf445a4d",
+        "type": "function",
+        "z": "f265343e24ade8d5",
+        "name": "データ作成が完了したトースト",
+        "func": "msg.payload = \"ALL Grean !!\"\nmsg.topic = \"Now, Let's simulate !!\"\nmsg.type = \"info\"\nmsg.timeout = 5\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1430,
+        "y": 980,
+        "wires": [
+            [
+                "ceeccbb2eea7748d"
+            ]
+        ]
+    },
+    {
+        "id": "ceeccbb2eea7748d",
+        "type": "ui_toast",
+        "z": "f265343e24ade8d5",
+        "position": "top right",
+        "displayTime": "",
+        "highlight": "",
+        "sendall": false,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "msg.notify-toast",
+        "topic": "",
+        "name": "データ作成が完了したトースト",
+        "x": 1730,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "16f6a9fd87044cea",
+        "type": "debug",
+        "z": "f265343e24ade8d5",
+        "name": "debug 33",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload['hostIP']",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 360,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "98c8f8ee90ade055",
+        "type": "function",
+        "z": "f265343e24ade8d5",
+        "name": "function 29",
+        "func": "msg.png = \"http://localhost:1880/image/\" + msg.status + \".png\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 1980,
+        "wires": [
+            [
+                "ba33e9a1c7024d6c"
+            ]
+        ]
+    },
+    {
+        "id": "c95b021835d0918d",
+        "type": "link in",
+        "z": "f265343e24ade8d5",
+        "name": "link in 11",
+        "links": [
+            "12850c29bba4ad45"
+        ],
+        "x": 135,
+        "y": 1980,
+        "wires": [
+            [
+                "98c8f8ee90ade055"
+            ]
+        ]
+    },
+    {
+        "id": "ba33e9a1c7024d6c",
+        "type": "template",
+        "z": "f265343e24ade8d5",
+        "name": "メインウィンドウのテンプレ",
+        "field": "template",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<div class=\"test\">\n    <img src={{png}} alt=\"msg.image\" id=\"flower\">\n</div>",
+        "output": "str",
+        "x": 460,
+        "y": 1980,
+        "wires": [
+            [
+                "797dcb443aa41daf"
+            ]
+        ]
     }
 ]

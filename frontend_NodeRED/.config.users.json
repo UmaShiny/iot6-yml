@@ -13,7 +13,7 @@
                 "view-show-welcome-tours": true
             },
             "tours": {
-                "welcome": "3.1.11"
+                "welcome": "4.0.2"
             },
             "dialog": {
                 "export": {
